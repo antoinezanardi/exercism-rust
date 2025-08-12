@@ -12,11 +12,14 @@
       <sourceFolder url="file://$MODULE_DIR$/hello-world/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/reverse-string/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/reverse-string/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/space-age/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/space-age/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
       <excludeFolder url="file://$MODULE_DIR$/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/gigasecond/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/reverse-string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/space-age/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
