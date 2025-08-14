@@ -18,6 +18,8 @@
       <sourceFolder url="file://$MODULE_DIR$/sublist/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/flower-field/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/flower-field/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/armstrong-numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/armstrong-numbers/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/luhn/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/luhn/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
@@ -28,6 +30,7 @@
       <excludeFolder url="file://$MODULE_DIR$/space-age/target" />
       <excludeFolder url="file://$MODULE_DIR$/sublist/target" />
       <excludeFolder url="file://$MODULE_DIR$/flower-field/target" />
+      <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/luhn/target" />
     </content>
     <orderEntry type="inheritedJdk" />
