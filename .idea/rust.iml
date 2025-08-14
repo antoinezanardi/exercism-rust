@@ -24,6 +24,8 @@
       <sourceFolder url="file://$MODULE_DIR$/bottle-song/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/difference-of-squares/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/difference-of-squares/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/grains/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grains/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/luhn/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/luhn/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
@@ -37,6 +39,7 @@
       <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/bottle-song/target" />
       <excludeFolder url="file://$MODULE_DIR$/difference-of-squares/target" />
+      <excludeFolder url="file://$MODULE_DIR$/grains/target" />
       <excludeFolder url="file://$MODULE_DIR$/luhn/target" />
     </content>
     <orderEntry type="inheritedJdk" />
