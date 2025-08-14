@@ -39,11 +39,13 @@ fn get_annotated_line(sub_garden: &Square) -> String {
 pub fn annotate(garden: &[&str]) -> Vec<String> {
     let parsed: Vec<Vec<char>> = garden.iter().map(|line| line.chars().collect()).collect();
 
-    (0..garden.len())
-        .map(|i| {
+    parsed
+        .iter()
+        .enumerate()
+        .map(|(i, middle)| {
             let square = Square {
                 top_line: if i > 0 { Some(&parsed[i - 1]) } else { None },
-                middle_line: &parsed[i],
+                middle_line: middle.as_slice(),
                 bottom_line: parsed.get(i + 1).map(|v| v.as_slice()),
             };
             get_annotated_line(&square)
