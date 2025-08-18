@@ -32,6 +32,8 @@
       <sourceFolder url="file://$MODULE_DIR$/luhn/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/nth-prime/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/nth-prime/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/prime-factors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prime-factors/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
       <excludeFolder url="file://$MODULE_DIR$/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/gigasecond/target" />
@@ -47,6 +49,7 @@
       <excludeFolder url="file://$MODULE_DIR$/leap/target" />
       <excludeFolder url="file://$MODULE_DIR$/luhn/target" />
       <excludeFolder url="file://$MODULE_DIR$/nth-prime/target" />
+      <excludeFolder url="file://$MODULE_DIR$/prime-factors/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
