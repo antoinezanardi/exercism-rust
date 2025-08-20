@@ -44,10 +44,14 @@
       <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/bob/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bob/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/collatz-conjecture/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collatz-conjecture/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/high-scores/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/high-scores/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/matching-brackets/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/matching-brackets/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/series/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/series/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/proverb/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
@@ -69,8 +73,10 @@
       <excludeFolder url="file://$MODULE_DIR$/sublist/target" />
       <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/target" />
       <excludeFolder url="file://$MODULE_DIR$/bob/target" />
+      <excludeFolder url="file://$MODULE_DIR$/collatz-conjecture/target" />
       <excludeFolder url="file://$MODULE_DIR$/high-scores/target" />
       <excludeFolder url="file://$MODULE_DIR$/matching-brackets/target" />
+      <excludeFolder url="file://$MODULE_DIR$/series/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
