@@ -6,8 +6,71 @@
       <sourceFolder url="file://$MODULE_DIR$/proverb/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/anagram/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/anagram/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/armstrong-numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/armstrong-numbers/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/bottle-song/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bottle-song/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/clock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/clock/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/difference-of-squares/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/difference-of-squares/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/flower-field/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flower-field/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/gigasecond/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gigasecond/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/grains/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grains/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/hello-world/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hello-world/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/leap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leap/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/luhn/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/luhn/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/nth-prime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nth-prime/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/prime-factors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prime-factors/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/raindrops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/raindrops/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/reverse-string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reverse-string/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/space-age/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/space-age/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sublist/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sublist/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/bob/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bob/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/high-scores/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/high-scores/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/matching-brackets/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matching-brackets/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/proverb/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
+      <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/bottle-song/target" />
+      <excludeFolder url="file://$MODULE_DIR$/clock/target" />
+      <excludeFolder url="file://$MODULE_DIR$/difference-of-squares/target" />
+      <excludeFolder url="file://$MODULE_DIR$/flower-field/target" />
+      <excludeFolder url="file://$MODULE_DIR$/gigasecond/target" />
+      <excludeFolder url="file://$MODULE_DIR$/grains/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hello-world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/leap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/luhn/target" />
+      <excludeFolder url="file://$MODULE_DIR$/nth-prime/target" />
+      <excludeFolder url="file://$MODULE_DIR$/prime-factors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/raindrops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/reverse-string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/space-age/target" />
+      <excludeFolder url="file://$MODULE_DIR$/sublist/target" />
+      <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/target" />
+      <excludeFolder url="file://$MODULE_DIR$/bob/target" />
+      <excludeFolder url="file://$MODULE_DIR$/high-scores/target" />
+      <excludeFolder url="file://$MODULE_DIR$/matching-brackets/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
