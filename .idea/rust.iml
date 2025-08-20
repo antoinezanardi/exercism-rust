@@ -52,6 +52,8 @@
       <sourceFolder url="file://$MODULE_DIR$/matching-brackets/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/series/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/series/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/kindergarten-garden/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kindergarten-garden/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/proverb/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
@@ -77,6 +79,7 @@
       <excludeFolder url="file://$MODULE_DIR$/high-scores/target" />
       <excludeFolder url="file://$MODULE_DIR$/matching-brackets/target" />
       <excludeFolder url="file://$MODULE_DIR$/series/target" />
+      <excludeFolder url="file://$MODULE_DIR$/kindergarten-garden/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
