@@ -62,6 +62,8 @@
       <sourceFolder url="file://$MODULE_DIR$/allergies/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/alphametics/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/alphametics/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/binary-search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/binary-search/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/proverb/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
@@ -92,6 +94,7 @@
       <excludeFolder url="file://$MODULE_DIR$/all-your-base/target" />
       <excludeFolder url="file://$MODULE_DIR$/allergies/target" />
       <excludeFolder url="file://$MODULE_DIR$/alphametics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/binary-search/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
