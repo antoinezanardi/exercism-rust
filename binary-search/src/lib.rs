@@ -15,7 +15,7 @@ where
     let middle_idx = get_range_middle_idx(range);
     let middle_value = &collection[middle_idx];
 
-    match middle_value.cmp(&key) {
+    match middle_value.cmp(key) {
         Equal => Some(middle_idx),
         Greater if range_start < middle_idx => {
             find_recursively(collection, key, range_start..=middle_idx - 1)
